@@ -9,7 +9,7 @@
 🌎 I'm from Colombia  
   
 
-🌱 I’m currently learning Laravel and VueJs  
+🌱 I’m currently learning Vuejs and Nodejs 
   
 
 🎮 I like to play video games and listen to music  
