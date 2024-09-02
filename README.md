@@ -3,19 +3,19 @@
 </div>  
   
 
-### <div align="center">I'm Farid Moreno, a full-time Frontend developer 👨‍💻</div>  
+### <div align="center">I'm Farid Moreno, a full-time Fullstack developer 👨‍💻</div>  
   
 
 🌎 I'm from Colombia  
   
 
-🌱 I’m currently learning Vuejs and Nodejs 
+🌱 I’m currently learning React and Laravel 
   
 
 🎮 I like to play video games and listen to music  
 
 
-⚡ Fun fact: I use tabs over spaces  
+⚡ Fun fact: I use tabs over spaces and I use Lazyvim instead of vscode
   
 
 <br/>  
