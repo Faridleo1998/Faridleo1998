@@ -37,7 +37,7 @@
   I also have experience building <strong>multitenant systems</strong> using <strong>Laravel</strong> and <strong>FilamentPHP</strong>, combining scalability with great user experiences.
   <br><br>
   My next goal is to dive into <strong>backend development with Node.js</strong>, exploring frameworks like <strong>NestJS</strong> and <strong>Next.js</strong>, and learning how to build <strong>highly scalable systems</strong> with technologies such as <strong>Redis</strong>.
-  <br>
+  <br><br>
   I'm also passionate about <strong>Artificial Intelligence</strong>, especially the creation of my own <strong>MCPs</strong> and <strong>AI agents</strong>.
   <br><br>
   🚀 Always learning, experimenting, and building things that truly make an impact.
